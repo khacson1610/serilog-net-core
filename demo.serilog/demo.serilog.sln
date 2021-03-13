@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo.serilog", "demo.serilog\demo.serilog.csproj", "{81AFFE33-6252-47E9-B642-A93B0463172A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfrastructureLogger", "InfrastructureLogger\InfrastructureLogger.csproj", "{AC21A105-9289-4ACF-BF72-C30244EFF15F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{81AFFE33-6252-47E9-B642-A93B0463172A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81AFFE33-6252-47E9-B642-A93B0463172A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81AFFE33-6252-47E9-B642-A93B0463172A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC21A105-9289-4ACF-BF72-C30244EFF15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC21A105-9289-4ACF-BF72-C30244EFF15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC21A105-9289-4ACF-BF72-C30244EFF15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC21A105-9289-4ACF-BF72-C30244EFF15F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

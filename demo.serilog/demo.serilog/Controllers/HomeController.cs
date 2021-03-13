@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using demo.serilog.Models;
+using InfrastructureLogger;
 
 namespace demo.serilog.Controllers
 {
@@ -20,18 +21,12 @@ namespace demo.serilog.Controllers
 
         public IActionResult Index()
         {
+            LoggerAdapter.Debug("Logs Debug");
+            LoggerAdapter.Information("Logs Information");
+            LoggerAdapter.Warning("Logs Warning");
+            LoggerAdapter.Error("Logs Error");
+            LoggerAdapter.Fatal("Logs Fatal");
             return View();
-        }
-
-        public IActionResult Privacy()
-        {
-            return View();
-        }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
 }
