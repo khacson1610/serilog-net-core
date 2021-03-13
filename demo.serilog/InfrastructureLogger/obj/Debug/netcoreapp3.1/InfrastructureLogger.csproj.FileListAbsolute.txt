@@ -1,0 +1,9 @@
+E:\Project\C#\serilog-net-core\demo.serilog\InfrastructureLogger\bin\Debug\netcoreapp3.1\InfrastructureLogger.deps.json
+E:\Project\C#\serilog-net-core\demo.serilog\InfrastructureLogger\bin\Debug\netcoreapp3.1\InfrastructureLogger.dll
+E:\Project\C#\serilog-net-core\demo.serilog\InfrastructureLogger\bin\Debug\netcoreapp3.1\InfrastructureLogger.pdb
+E:\Project\C#\serilog-net-core\demo.serilog\InfrastructureLogger\obj\Debug\netcoreapp3.1\InfrastructureLogger.AssemblyInfoInputs.cache
+E:\Project\C#\serilog-net-core\demo.serilog\InfrastructureLogger\obj\Debug\netcoreapp3.1\InfrastructureLogger.AssemblyInfo.cs
+E:\Project\C#\serilog-net-core\demo.serilog\InfrastructureLogger\obj\Debug\netcoreapp3.1\InfrastructureLogger.dll
+E:\Project\C#\serilog-net-core\demo.serilog\InfrastructureLogger\obj\Debug\netcoreapp3.1\InfrastructureLogger.pdb
+E:\Project\C#\serilog-net-core\demo.serilog\InfrastructureLogger\obj\Debug\netcoreapp3.1\InfrastructureLogger.csprojAssemblyReference.cache
+E:\Project\C#\serilog-net-core\demo.serilog\InfrastructureLogger\obj\Debug\netcoreapp3.1\InfrastructureLogger.csproj.CoreCompileInputs.cache
